@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hello Overlay
 // @namespace    http://tampermonkey.net/
-// @version      2.3
+// @version      2.4
 // @description  Simple overlay displaying "Hello"
 // @updateURL    https://raw.githubusercontent.com/Tr3czz4/asd/main/s
 // @downloadURL  https://raw.githubusercontent.com/Tr3czz4/asd/main/s
