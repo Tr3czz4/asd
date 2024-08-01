@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Simple overlay displaying "Hello"
-// @updateURL    https://raw.githubusercontent.com/Tr3czz4/Youtube-video-/main/Youtube?token=GHSAT0AAAAAACVQ5OUFQVARUIYPCBYGDC7GZVLIYNQ
-// @downloadURL  https://raw.githubusercontent.com/Tr3czz4/Youtube-video-/main/Youtube?token=GHSAT0AAAAAACVQ5OUFQVARUIYPCBYGDC7GZVLIYNQ
+// @updateURL    https://raw.githubusercontent.com/Tr3czz4/asd/main/s
+// @downloadURL  https://raw.githubusercontent.com/Tr3czz4/asd/main/s
 // @match        https://bloxflip.com/*
 // @grant        none
 // ==/UserScript==
