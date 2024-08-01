@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hello Overlay
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      2.2
 // @description  Simple overlay displaying "Hello"
 // @updateURL    https://raw.githubusercontent.com/Tr3czz4/asd/main/s
 // @downloadURL  https://raw.githubusercontent.com/Tr3czz4/asd/main/s
@@ -14,7 +14,7 @@
 
     // Create overlay div
     var overlay = document.createElement('div');
-    overlay.id = 'bye-bye-overlay';
+    overlay.id = 'hello-bye-overlay';
     overlay.style.position = 'fixed';
     overlay.style.top = '0';
     overlay.style.left = '0';
